@@ -7,5 +7,5 @@ Demo of the Weierstrass function used to generate a chord, where playing back at
 [WeierstrassDemoHere](https://drive.google.com/file/d/1S5B6RBmhnGKVxPV0XI6xP_GAA-q7SNU2/view?usp=sharing)
 
 And for fun, another paradox: If you detune octaves slightly (not using a Weierstrass function) then playback at double the speed. The resulting sound is lower not an octave higher!
-[DetunedOctavesDemoHere] (https://drive.google.com/file/d/1QWnjfkCK_fTWnlyPbb9RijlrVq-AIWIg/view?usp=sharing)
+[DetunedOctavesDemoHere](https://drive.google.com/file/d/1QWnjfkCK_fTWnlyPbb9RijlrVq-AIWIg/view?usp=sharing)
 
