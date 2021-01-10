@@ -9,7 +9,7 @@
 
 w=0;
 % B = Geometric relationship value to change
-B=2^(24/12);
+B=2;
 P=12;
 sampleRate = 22050;
 
