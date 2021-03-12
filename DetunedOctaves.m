@@ -1,3 +1,4 @@
+% Found this here https://dsp.stackexchange.com/questions/35690/double-the-speed-double-the-frequency 
 % Detuning octaves a wee bit and playing back at double the speed; the perceived
 % pitch goes down. Mad.
 
