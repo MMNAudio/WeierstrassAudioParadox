@@ -1,4 +1,4 @@
-% Weierstrass Audio Paradox.
+% Weierstrass Audio Paradox
 % When doubling playback speed, change B to: 
 % 2 for the same pitch
 % 2^(13/12) for the pitch to be a semitone lower & simultaneously higher
