@@ -9,3 +9,5 @@ Demo of the Weierstrass function used to generate a chord, where playing back at
 And for fun, another paradox: If you detune octaves slightly (not using a Weierstrass function) then playback at double the speed. The resulting sound is lower not an octave higher!
 [DetunedOctavesDemoHere](https://drive.google.com/file/d/1QWnjfkCK_fTWnlyPbb9RijlrVq-AIWIg/view?usp=sharing)
 
+Found the above out here https://dsp.stackexchange.com/questions/35690/double-the-speed-double-the-frequency
+
